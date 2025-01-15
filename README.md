@@ -2,6 +2,9 @@
 
 A simple Android application built with Jetpack Compose demonstrating fundamental UI components and layouts. The app displays an image followed by three text sections with custom formatting and padding.
 
+![image](https://github.com/user-attachments/assets/dfc76346-4931-4879-91e3-db1f2a6f2061)
+
+
 ## Features
 
 - Material 3 design implementation
